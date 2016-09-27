@@ -1,0 +1,9 @@
+{
+  "name": "rscoin-be-language-pack",
+  "homepage": "https://github.com/input-output-hk/rscoin-be-language-pack",
+  "authors": [
+    ""
+  ],
+  "description": "Language pack for RSCoin Block Explorer application",
+  "license": ""
+}
