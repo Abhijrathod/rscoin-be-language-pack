@@ -32,6 +32,7 @@ english =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
+    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
     }
 
 japanese =
@@ -64,6 +65,7 @@ japanese =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
+    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
     }
 
 russian =
@@ -96,6 +98,7 @@ russian =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
+    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
     }
 
 chinese =
@@ -128,6 +131,7 @@ chinese =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
+    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
     }
 
 korean =
@@ -160,4 +164,5 @@ korean =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
+    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
     }
