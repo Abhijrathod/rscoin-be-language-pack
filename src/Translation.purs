@@ -32,7 +32,8 @@ english =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
-    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
+    , browserNotSupported: "Your browser is not supported"
+    , _browserNotSupported: "For security reasons you can’t use outdated browser. Keep your browser up to date. Check here for latest versions."
     }
 
 japanese =
@@ -65,7 +66,8 @@ japanese =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
-    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
+    , browserNotSupported: "Your browser is not supported"
+    , _browserNotSupported: "For security reasons you can’t use outdated browser. Keep your browser up to date. Check here for latest versions."
     }
 
 russian =
@@ -98,7 +100,8 @@ russian =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
-    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
+    , browserNotSupported: "Your browser is not supported"
+    , _browserNotSupported: "For security reasons you can’t use outdated browser. Keep your browser up to date. Check here for latest versions."
     }
 
 chinese =
@@ -131,7 +134,8 @@ chinese =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
-    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
+    , browserNotSupported: "Your browser is not supported"
+    , _browserNotSupported: "For security reasons you can’t use outdated browser. Keep your browser up to date. Check here for latest versions."
     }
 
 korean =
@@ -164,5 +168,6 @@ korean =
     , minutes: "minutes"
     , hours: "hours"
     , days: "days"
-    , _browserNotSupported: "Your browser is not supported, please download one of these browsers: "
+    , browserNotSupported: "Your browser is not supported"
+    , _browserNotSupported: "For security reasons you can’t use outdated browser. Keep your browser up to date. Check here for latest versions."
     }
